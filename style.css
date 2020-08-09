@@ -23,8 +23,11 @@ a{
     color:rgb(4, 75, 59);
   }
 .container{
+  display: flex;
   padding-bottom: 30px;
   background-color: rgb(19, 21, 22);
+  flex-wrap: wrap;
+  margin-left: auto;
 }
 p{
   color: aliceblue;
